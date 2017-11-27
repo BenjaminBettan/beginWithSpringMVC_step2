@@ -31,7 +31,7 @@ note that the groupid of the pom should be the same
 
 in our case : 
 
-in pom.xml          
+in pom.xml (groupid)
 -> com.bbettan.demospringmvc
 
 our java bean       
