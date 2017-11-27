@@ -10,6 +10,14 @@ add to buildpath Libraries\Server runtime\pivotal tc server developper edition
 
 run as server on eclipse sts
 
+your REST url to test should be : 
+
+http://localhost:8080/springrestexample/employees
+http://localhost:8080/springrestexample/employees/0
+http://localhost:8080/springrestexample/employees/1
+http://localhost:8080/springrestexample/employees/2
+
+
 ####################################################################################
 
                                 ADAPTATION
