@@ -29,4 +29,17 @@ src.main.java.packagelevel_0.packagelevel_1.packagelevel_2.packagelevel_3.MyBean
 
 note that the groupid of the pom should be the same
 
-in our case : com.bbettan.demospringmvc.model.Employee.java
+in our case : 
+
+in pom.xml          
+-> com.bbettan.demospringmvc
+
+our java bean       
+-> com.bbettan.demospringmvc.model.Employee.java
+
+our kind of service 
+-> com.bbettan.demospringmvc.model.EmployeeList.java
+
+and the servlet conf 
+-> src/main/webapp/WEB-INF/spring-servlet.xml -> <context:component-scan base-package="com.bbettan.demospringmvc" />
+
