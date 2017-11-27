@@ -1,5 +1,7 @@
 # beginWithSpringMVC_step2
 
+adaptation from https://howtodoinjava.com/spring/spring-restful/spring-rest-hello-world-xml-example/
+
 Download zip
 
 import maven project
