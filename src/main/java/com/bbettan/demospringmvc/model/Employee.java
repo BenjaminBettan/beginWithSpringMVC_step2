@@ -1,4 +1,4 @@
-package com.howtodoinjava.demo.model;
+package com.bbettan.demospringmvc.model;
 
 import java.io.Serializable;
 

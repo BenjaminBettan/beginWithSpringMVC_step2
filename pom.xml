@@ -4,7 +4,7 @@
 	<groupId>com.bbettan.demospringmvc</groupId>
 	<artifactId>springrestexample</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>springrestexample Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
